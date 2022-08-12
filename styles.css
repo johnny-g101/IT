@@ -3,6 +3,10 @@ background-color: lightblue;
 border-style: double;
 border-color: darkblue;
 border-width: medium;
+margin-top: 100px;
+margin-bottom:200px;
+margin-left:300px;
+margin-right:300px;
 }
 
 h1 {
@@ -34,14 +38,16 @@ h5{
 
 p{
   font-size: 150%;
-  padding-right: 100px;
+  padding-left: 50px;
 }
 
 li{
   font-size: 150%;
-    padding-right: 150px;
+    padding-left: 20px;
 }
 
-img{
-  padding-right: 100px;
+.center{
+  display: block;
+  margin-left:auto;
+  margin-right:auto;
 }
