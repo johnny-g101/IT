@@ -6,13 +6,9 @@ border-width: medium;
 }
 
 h1 {
+  text-align: center;
   color: blue;
   font-size: 500%;
-  width: 300px;
-  border: 15px;
-  padding: 50px;
-  margin: 20px;
-
 }
 
 h2{
@@ -25,11 +21,27 @@ h3{
   font-size: 200%;
 }
 
-p{
-
+h4{
+  text-align: center;
   font-size: 150%;
+}
+
+h5{
+  text-align: center;
+  font-size: 125%;
+}
+
+
+p{
+  font-size: 150%;
+  padding-right: 100px
 }
 
 li{
   font-size: 150%;
+    padding-right: 150px
+}
+
+img{
+  padding-right: 100px
 }
