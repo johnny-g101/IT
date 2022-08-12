@@ -1,7 +1,7 @@
 body{
-background-color: lightblue;
+background-color: darkblue;
 border-style: double;
-border-color: darkblue;
+border-color: white;
 border-width: medium;
 margin-top: 100px;
 margin-bottom:200px;
@@ -9,41 +9,48 @@ margin-left:200px;
 margin-right:200px;
 }
 
+
 h1 {
   text-align: center;
-  color: blue;
+  color: lightblue;
   font-size: 500%;
 }
 
 h2{
+  color: lightblue;
   text-align: center;
   font-size: 300%;
 }
 
 h3{
+  color: lightblue;
   text-align: center;
   font-size: 200%;
 }
 
 h4{
+  color: lightblue;
   text-align: center;
-  font-size: 100%;
+  font-size: 125%;
 }
 
 h5{
+  color: lightgrey;
   text-align: center;
   font-size: 125%;
 }
 
 
 p{
+  color: white;
   font-size: 150%;
   padding-left: 50px;
 }
 
 li{
+  color: white;
   font-size: 150%;
-    padding-left: 20px;
+  padding-left: 20px;
 }
 
 .center{
@@ -53,6 +60,6 @@ li{
 }
 
 a{
-  text-align: center;
-  font-size: 125%;
+  color: lightblue;
+  font-size: 75%;
 }
