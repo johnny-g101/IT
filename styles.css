@@ -1,5 +1,5 @@
 body{
-background-color: black;
+background-color: midnightblue;
 border-style: double;
 border-color: white;
 border-width: medium;
@@ -11,14 +11,14 @@ margin-right:200px;
 
 
 h1{
-  background-color: midnightblue;
+  background-color: black;
   text-align: center;
   color: lightblue;
   font-size: 500%;
 }
 
 h2{
-  background-color: midnightblue;
+  background-color: black;
   color: lightblue;
   text-align: center;
   font-size: 300%;
